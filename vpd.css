@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+
+body a {
+	
+color:black;
+	
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	height:auto;
+
+
+}
+
+#container h1 {
+	text-align:center;
+	padding:0;
+	margin:220px 0 10px 0;
+
+}
+
+#container p {
+	text-align:center;
+	padding:0;
+	margin:0px 0 0px 0;
+
+}
+
+
+#loginform {
+	position:relative;
+	margin-left:415px;
+	margin-top:30px;
+	height:150px;
+	width:300px;
+
+}
+
+
+
+#rightlogin {
+	position:absolute;
+	height:420px;
+	width:411px;
+	top:170px;
+	margin-left:60px;
+	background:url(images/member2.png) no-repeat;
+	z-index:-1;
+}
+
+#footer {
+	position:relative;
+	margin-top:15px;
+	text-align:center;	
+}
+
+#container table {
+	text-align:center;
+	width:100%;
+}
+
+#lootoptions {
+	position:relative;
+	float:right;
+	margin-top:-80px;
+	width:auto;
+	height:auto;
+}
+
+tr {
+	background:#A4D8FF;
+}
+th.title {
+	background:#96DBE8;
+	width:150px;
+}
+
+th.description {
+	background:#96DBE8;
+	width:550px;
+	
+	
+}
+
+th.uploader {
+	width:100px;
+	background:#96DBE8;
+	
+}
+
+th.updated {
+	width:100px;
+	background:#96DBE8;
+}
+
+th.download {
+	width:150px;
+	background:#96DBE8;
+}
+
+th.delete {
+	background:#96DBE8;
+}
+
+.forms {
+	padding-left:10%;
+
+}
+
+a.download {
+	
+	text-decoration:none;
+}
